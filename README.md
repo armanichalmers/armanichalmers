@@ -1,5 +1,5 @@
 <h1>Hi, I'm Armani Chalmers! <br/><a 
-href="https://www.linkedin.com/in/armanichalmers/">Data Analyst</a>
+href="https://www.linkedin.com/in/armanichalmers/">Consumer Insights & Market Research | Data & Business Intelligence Analyst | Certified ScrumMaster (CSM)</a>
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
