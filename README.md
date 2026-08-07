@@ -7,10 +7,10 @@ href=>Certified ScrumMaster (CSM)</a>
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Food and Beverage Revenue Analysis for Arts Nonprofit (https://github.com/armanichalmers/Food_Beverage_Revenue_Analysis_for_Arts_Nonprofit)
+  - Food and Beverage Revenue Analysis for Arts Nonprofit (https://github.com/armanichalmers/Food_Beverage_Revenue_Analysis_for_Arts_Nonprofit)
 
 - <b>💾SQL Project</b>
-  - [Executive Box Office Sales Dashboard (PLACEHOLDER)
+  - Executive Box Office Sales Dashboard (PLACEHOLDER)
     
 <h2>📚Certifications:</h2>
 
