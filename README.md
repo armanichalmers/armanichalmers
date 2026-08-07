@@ -3,6 +3,9 @@ href="https://www.linkedin.com/in/armanichalmers/">Consumer Insights & Market Re
 href=>Data & Business Intelligence Analyst</a>, <a
 href=>Certified ScrumMaster (CSM)</a>                                                 
 </h1>
+<p>
+I'm passionate about transforming data into actionable business insights through SQL, Power BI, Tableau, AI-assisted research, and data storytelling.
+</p>
 
 <h2>📊Data Analytics Projects:</h2>
 
