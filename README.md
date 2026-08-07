@@ -1,7 +1,5 @@
 <h1>Hi, I'm Armani Chalmers! 👋 <br/><a 
-href="https://www.linkedin.com/in/armanichalmers/">Consumer Insights & Market Research</a>, <a
-href=>Data & Business Intelligence Analyst</a>, <a
-href=>Certified ScrumMaster (CSM)</a>                                                 
+href="https://www.linkedin.com/in/armanichalmers/">Consumer Insights & Market Research, Data & Business Intelligence Analyst, Certified ScrumMaster (CSM)</a>                                                 
 </h1>
 <p>
 I'm passionate about transforming data into actionable business insights through SQL, Power BI, Tableau, AI-assisted research, and data storytelling.
