@@ -11,7 +11,7 @@ I'm passionate about transforming data into actionable business insights through
   - [Food and Beverage Revenue Analysis for Arts Nonprofit](https://github.com/armanichalmers/Food_Beverage_Revenue_Analysis_for_Arts_Nonprofit)
 
 - <b>💾Power BI Project</b>
-  - [Executive Box Office Sales Dashboard for Arts Nonprofit](https://app.powerbi.com/view?r=eyJrIjoiNjgyZTA3YWEtMzAxMC00MjRjLWIzZTItMjQ5NTU4ODdlOTA3IiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9)
+  - [Executive Box Office Sales Dashboard for Arts Nonprofit](https://github.com/armanichalmers/Executive_Box_Office_Dashboard)
     
 <h2>📚Certifications:</h2>
 
