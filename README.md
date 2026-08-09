@@ -9,6 +9,7 @@ I'm passionate about transforming data into actionable business insights through
 
 - <b>💾SQL Projects</b>
   - [Food and Beverage Revenue Analysis for Tivoli Theatre Foundation](https://github.com/armanichalmers/Food_Beverage_Revenue_Analysis_for_Arts_Nonprofit)
+  - [💰 Nonprofit Donor & Fundraising Analysis](https://github.com/armanichalmers/Nonprofit_Donor_Analysis_SQL/tree/main)
 
 - <b>💾Power BI Projects</b>
   - [Executive Box Office Sales Dashboard for Tivoli Theatre Foundation](https://github.com/armanichalmers/Executive_Box_Office_Dashboard)
