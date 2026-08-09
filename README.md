@@ -7,6 +7,9 @@ I'm passionate about transforming data into actionable business insights through
 
 <h2>📊Data Analytics Projects:</h2>
 
+- <b>💾Consumer Insights & Market Research Projects</b>
+  - [Beats by Dre Consumer Insights & Market Research](https://github.com/armanichalmers/Beats_by_Dre_Consumer_Insights_Market_Research)
+    
 - <b>💾SQL Projects</b>
   - [Food and Beverage Revenue Analysis for Tivoli Theatre Foundation](https://github.com/armanichalmers/Food_Beverage_Revenue_Analysis_for_Arts_Nonprofit)
   - [Nonprofit Donor & Fundraising Analysis](https://github.com/armanichalmers/Nonprofit_Donor_Analysis_SQL)
@@ -14,8 +17,8 @@ I'm passionate about transforming data into actionable business insights through
 - <b>💾Power BI Projects</b>
   - [Executive Box Office Sales Dashboard for Tivoli Theatre Foundation](https://github.com/armanichalmers/Executive_Box_Office_Dashboard)
 
-- <b>💾Consumer Insights & Market Research Projects</b>
-  - [Beats by Dre Consumer Insights & Market Research](https://github.com/armanichalmers/Beats_by_Dre_Consumer_Insights_Market_Research)
+- <b>💾Tableau Projects</b>
+  - [Udemy Course & Revenue Analysis](https://github.com/armanichalmers/Tableau_Data_Visualization_Portfolio)
     
 <h2>📚Certifications:</h2>
 
