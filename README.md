@@ -22,12 +22,15 @@ I'm passionate about transforming data into actionable business insights through
     
 <h2>📚Certifications:</h2>
 
-- <b>📜May 2026 Data Analytics Career Accelerator Program</b>
-  - [Demonstrated competency in SQL and Power BI through hands-on business reporting, data analysis, and interactive dashboard development.](https://www.virtualbadge.io/certificate-validator?credential=41a5c993-230b-45ce-85f4-8dba535030e6)
+- 📜 **[May 2026 Data Analytics Career Accelerator Program](https://www.virtualbadge.io/certificate-validator?credential=41a5c993-230b-45ce-85f4-8dba535030e6)**
+  - Demonstrated competency in SQL and Power BI through hands-on business reporting, data analysis, and interactive dashboard development.
 
-- <b>📜Beats by Dre Consumer Behavior & Market Analysis Externship</b>
-  - [Demonstrated competency in consumer insights and market research through survey research, quantitative and qualitative analysis, consumer segmentation, and strategic recommendations.](https://github.com/armanichalmers/armanichalmers/blob/main/Extern_Beats_by_Dre_Cert.pdf)
+- 📜 **[Beats by Dre Consumer Behavior & Market Analysis Externship](https://github.com/armanichalmers/armanichalmers/blob/main/Extern_Beats_by_Dre_Cert.pdf)**
+  - Demonstrated competency in consumer insights and market research through survey research, quantitative and qualitative analysis, consumer segmentation, and strategic recommendations.
 
+- 📜 **[Tableau Dashboard Workshop](https://www.virtualbadge.io/certificate-validator?credential=fea5e97d-87ed-4efd-a501-e75a1bb33428)**
+  - Demonstrated competency in Tableau and data visualization through hands-on dashboard development, visual analysis, and communicating data insights.
+    
 
 <h2>📱Connect with me:</h2>
 <a href="https://www.linkedin.com/in/armanichalmers/" target="_blank">
