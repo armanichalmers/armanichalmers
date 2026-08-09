@@ -25,8 +25,8 @@ I'm passionate about transforming data into actionable business insights through
 - <b>📜May 2026 Data Analytics Career Accelerator Program</b>
   - [Demonstrated competency in SQL and Power BI through hands-on business reporting, data analysis, and interactive dashboard development.](https://www.virtualbadge.io/certificate-validator?credential=41a5c993-230b-45ce-85f4-8dba535030e6)
 
-- <b>📜New Cert</b>
-  - [Need Description](PLACEHOLDER)
+- <b>📜Beats by Dre Consumer Behavior & Market Analysis Externship</b>
+  - [Demonstrated competency in consumer insights and market research through survey research, quantitative and qualitative analysis, consumer segmentation, and strategic recommendations.](https://github.com/armanichalmers/armanichalmers/blob/main/Extern_Beats_by_Dre_Cert.pdf)
 
 
 <h2>📱Connect with me:</h2>
