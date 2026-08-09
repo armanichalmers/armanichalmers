@@ -7,11 +7,14 @@ I'm passionate about transforming data into actionable business insights through
 
 <h2>📊Data Analytics Projects:</h2>
 
-- <b>💾SQL Project</b>
+- <b>💾SQL Projects</b>
   - [Food and Beverage Revenue Analysis for Arts Nonprofit](https://github.com/armanichalmers/Food_Beverage_Revenue_Analysis_for_Arts_Nonprofit)
 
-- <b>💾Power BI Project</b>
+- <b>💾Power BI Projects</b>
   - [Executive Box Office Sales Dashboard for Arts Nonprofit](https://github.com/armanichalmers/Executive_Box_Office_Dashboard)
+
+- <b>🔍Consumer Insights & Market Research Projects</b>
+  - [Beats by Dre Consumer Insights & Market Research](https://github.com/armanichalmers/Beats_by_Dre_Consumer_Insights_Market_Research)
     
 <h2>📚Certifications:</h2>
 
