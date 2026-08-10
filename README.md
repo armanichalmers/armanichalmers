@@ -31,6 +31,9 @@ I'm passionate about transforming data into actionable business insights through
 - 📜 **[Certified ScrumMaster (CSM)](https://bcert.me/bc/html/show-badge.html?b=jarnsevo)**
   - Demonstrated knowledge of Scrum and Agile principles, including team collaboration, iterative workflows, and supporting effective project delivery.
 
+- 📜 **[Digital Customer Analytics](https://courses.edx.org/certificates/c1fcda6019bb4dd0b471603c022584f9)**
+  - Developed skills in customer analytics through Customer Lifetime Value (CLV), customer selection, loyalty and churn analysis, and evaluating marketing actions to support data-driven customer strategy.
+    
 - 📜 **[Tableau Dashboard Workshop](https://www.virtualbadge.io/certificate-validator?credential=fea5e97d-87ed-4efd-a501-e75a1bb33428)**
   - Demonstrated competency in Tableau and data visualization through hands-on dashboard development, visual analysis, and communicating data insights.
     
@@ -39,9 +42,6 @@ I'm passionate about transforming data into actionable business insights through
  
 - 📜 **[SQL: Query Writing Training](https://www.virtualbadge.io/certificate-validator?credential=051f62e4-7577-4301-af2c-452d92419796)**
   - Demonstrated competency in foundational SQL query writing using SELECT, WHERE, ORDER BY, LIMIT, calculated fields, aliases, data types, and DISTINCT.
- 
-- 📜 **[Digital Customer Analytics](https://courses.edx.org/certificates/c1fcda6019bb4dd0b471603c022584f9)**
-  - Developed skills in customer analytics through Customer Lifetime Value (CLV), customer selection, loyalty and churn analysis, and evaluating marketing actions to support data-driven customer strategy.
  
 - 📜 **[Microsoft Excel Lookups: VLOOKUP & XLOOKUP](https://www.virtualbadge.io/certificate-validator?credential=66852781-bfab-4d79-9cc7-4e4a13a83770)**
   - Demonstrated competency in Excel lookup functions using VLOOKUP and XLOOKUP, including troubleshooting lookup formulas and retrieving data across datasets.
