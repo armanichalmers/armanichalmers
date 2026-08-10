@@ -19,7 +19,9 @@ I'm passionate about transforming data into actionable business insights through
 
 - <b>💾Tableau Projects</b>
   - [Udemy Course & Revenue Analysis](https://github.com/armanichalmers/Tableau_Data_Visualization_Portfolio)
-    
+ 
+
+<br>  
 <h2>📚Certifications & Professional Development:</h2>
 
 - 📜 **[May 2026 Data Analytics Career Accelerator Program](https://www.virtualbadge.io/certificate-validator?credential=41a5c993-230b-45ce-85f4-8dba535030e6)**
