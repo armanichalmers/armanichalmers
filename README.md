@@ -16,6 +16,7 @@ I'm passionate about transforming data into actionable business insights through
     
 - <b>💾Power BI Projects</b>
   - [Executive Box Office Sales Dashboard for Tivoli Theatre Foundation](https://github.com/armanichalmers/Executive_Box_Office_Dashboard)
+  - [Godzilla: King of the Monsters Dashboard](https://github.com/armanichalmers/Godzilla_Power_BI_Dashboard)
 
 - <b>💾Tableau Projects</b>
   - [Udemy Course & Revenue Analysis](https://github.com/armanichalmers/Tableau_Data_Visualization_Portfolio)
