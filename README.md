@@ -22,7 +22,7 @@ I'm passionate about transforming data into actionable business insights through
  
 - <b>💾Data Storytelling & Business Analysis</b>
   - [Process Model and Analysis – Etsy Ads Blog](https://armanichalmers.wixsite.com/pml-etsy)
-    - Designed and developed a Wix blog for a graduate-level Business Intelligence project examining Etsy Ad's business processes and operations through analytical exercises, business modeling, and data-informed recommendations.
+    - Designed and developed a Wix blog for a graduate-level Business Intelligence project, translating business process analysis, analytical concepts, and data-informed recommendations into clear, accessible written content.
  
 
 <br>  
