@@ -21,8 +21,8 @@ I'm passionate about transforming data into actionable business insights through
   - [Udemy Course & Revenue Analysis](https://github.com/armanichalmers/Tableau_Data_Visualization_Portfolio)
  
 - <b>💾Data Storytelling & Business Analysis</b>
-  - [Etsy Ads Business Analysis Blog](https://armanichalmers.wixsite.com/pml-etsy)
-    - Designed and developed a Wix-based academic blog to present business intelligence analyses of Etsy Ads, applying concepts in business processes, pricing, operations, decision-making, customer retention, and strategic analysis.
+  - [Process Model and Analysis – Etsy Ads Blog](https://armanichalmers.wixsite.com/pml-etsy)
+    - Designed and developed a Wix blog for a graduate-level Business Intelligence project examining Etsy Ad's business processes and operations through analytical exercises, business modeling, and data-informed recommendations.
  
 
 <br>  
