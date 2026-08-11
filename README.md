@@ -31,7 +31,7 @@ I'm passionate about transforming data into actionable business insights through
  
 - <b>💾Business Analysis & Technical Writing Projects</b>
   - [Process Model and Analysis – Etsy Ads Website](https://armanichalmers.wixsite.com/pml-etsy)
-    -  - Designed and developed a Wix website for a graduate Business Intelligence project, presenting business process analysis, operational insights, and data-informed recommendations using Etsy Ads as a case study.
+    - Designed and developed a Wix website for a graduate Business Intelligence project, presenting business process analysis, operational insights, and data-informed recommendations using Etsy Ads as a case study.
   - [Etsy Business Intelligence & Technology Blog](https://armanichalmers.wixsite.com/etsyblog)
     - Created a Wix-based academic blog featuring research and technical writing on business intelligence, process improvement, quality management, technology, and strategic business topics using Etsy as a case study.
      
