@@ -29,9 +29,12 @@ I'm passionate about transforming data into actionable business insights through
 - <b>💾Tableau Projects</b>
   - [Udemy Course & Revenue Analysis](https://github.com/armanichalmers/Tableau_Data_Visualization_Portfolio)
  
-- <b>💾Data Storytelling & Business Analysis Projects</b>
+- <b>💾Business Analysis & Technical Writing Projects</b>
   - [Process Model and Analysis – Etsy Ads Website](https://armanichalmers.wixsite.com/pml-etsy)
-    - Designed and developed a Wix site for a graduate-level Business Intelligence project, translating business process analysis, analytical concepts, and data-informed recommendations into clear, accessible written content.
+    -  - Designed and developed a Wix website for a graduate Business Intelligence project, presenting business process analysis, operational insights, and data-informed recommendations using Etsy Ads as a case study.
+  - [Etsy Business Intelligence & Technology Blog](https://armanichalmers.wixsite.com/etsyblog)
+    - Created a Wix-based academic blog featuring research and technical writing on business intelligence, process improvement, quality management, technology, and strategic business topics using Etsy as a case study.
+     
  
 
 <br>  
