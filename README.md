@@ -1,7 +1,15 @@
+<p align="center">
+  <img width="980"
+       alt="Armani Chalmers Data Analytics Portfolio"
+       src="https://github.com/user-attachments/assets/6a72af95-0a58-402f-89cc-4e66f2351d24" />
+</p>
+
+
 <h1>Hi, I'm Armani Chalmers! 👋 <br/><a 
 href="https://www.linkedin.com/in/armanichalmers/">Consumer Insights & Market Research, Data & Business Intelligence Analyst, Certified ScrumMaster (CSM)</a>                                                 
 </h1>
 <p>
+
 I'm passionate about transforming data into actionable business insights through SQL, Power BI, Tableau, AI-assisted research, and data storytelling.
 </p>
 
