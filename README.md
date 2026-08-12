@@ -34,7 +34,7 @@ I'm passionate about transforming data into actionable business insights through
   - [Godzilla: King of the Monsters Dashboard](https://github.com/armanichalmers/Godzilla_Power_BI_Dashboard)
 
 - <b>💾Tableau Projects</b>
-  - [Udemy Course & Revenue Analysis](https://github.com/armanichalmers/Tableau_Data_Visualization_Portfolio)
+  - [Udemy Course & Revenue Analysis and Dashboard](https://github.com/armanichalmers/Tableau_Data_Visualization_Portfolio)
   - [Supply Chain Performance Dashboard](https://github.com/armanichalmers/Tableau_Supply_Chain_Dashboard)
 
 <br>  
