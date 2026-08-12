@@ -19,7 +19,7 @@ I'm passionate about transforming data into actionable business insights through
   - [Beats by Dre Consumer Insights & Market Research](https://github.com/armanichalmers/Beats_by_Dre_Consumer_Insights_Market_Research)
 
 - <b>💾Business Intelligence Projects</b>
-  - [Etsy Ads Business Intelligence Solution](https://github.com/armanichalmers/Etsy_Ads_BI_Solution)
+  - [Etsy Ads Business Intelligence Solution Plan](https://github.com/armanichalmers/Etsy_Ads_BI_Solution)
   - [Process Model and Analysis – Etsy Ads Website](https://armanichalmers.wixsite.com/pml-etsy)
     - Designed and developed a Wix website for a graduate Business Intelligence project, presenting business process analysis, operational insights, and data-informed recommendations using Etsy Ads as a case study.
   - [Etsy Business Intelligence & Technology Blog](https://armanichalmers.wixsite.com/etsyblog)
