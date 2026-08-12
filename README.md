@@ -17,7 +17,13 @@ I'm passionate about transforming data into actionable business insights through
 
 - <b>💾Consumer Insights & Market Research Projects</b>
   - [Beats by Dre Consumer Insights & Market Research](https://github.com/armanichalmers/Beats_by_Dre_Consumer_Insights_Market_Research)
-    
+
+- <b>💾Business Intelligence Projects</b>
+  - [Process Model and Analysis – Etsy Ads Website](https://armanichalmers.wixsite.com/pml-etsy)
+    - Designed and developed a Wix website for a graduate Business Intelligence project, presenting business process analysis, operational insights, and data-informed recommendations using Etsy Ads as a case study.
+  - [Etsy Business Intelligence & Technology Blog](https://armanichalmers.wixsite.com/etsyblog)
+    - Created a Wix-based academic blog featuring research and technical writing on business intelligence, process improvement, quality management, technology, and strategic business topics using Etsy as a case study.
+      
 - <b>💾SQL Projects</b>
   - [Food and Beverage Revenue Analysis for Tivoli Theatre Foundation](https://github.com/armanichalmers/Food_Beverage_Revenue_Analysis_for_Arts_Nonprofit)
   - [Nonprofit Donor & Fundraising Analysis](https://github.com/armanichalmers/Nonprofit_Donor_Analysis_SQL)
@@ -29,16 +35,10 @@ I'm passionate about transforming data into actionable business insights through
 
 - <b>💾Tableau Projects</b>
   - [Udemy Course & Revenue Analysis](https://github.com/armanichalmers/Tableau_Data_Visualization_Portfolio)
- 
-- <b>💾Business Intelligence Projects</b>
-  - [Process Model and Analysis – Etsy Ads Website](https://armanichalmers.wixsite.com/pml-etsy)
-    - Designed and developed a Wix website for a graduate Business Intelligence project, presenting business process analysis, operational insights, and data-informed recommendations using Etsy Ads as a case study.
-  - [Etsy Business Intelligence & Technology Blog](https://armanichalmers.wixsite.com/etsyblog)
-    - Created a Wix-based academic blog featuring research and technical writing on business intelligence, process improvement, quality management, technology, and strategic business topics using Etsy as a case study.
-     
- 
+  - [Supply Chain Performance Dashboard](https://github.com/armanichalmers/Tableau_Supply_Chain_Dashboard)
 
 <br>  
+
 <h2>📚Certifications & Professional Development:</h2>
 
 - 📜 **[May 2026 Data Analytics Career Accelerator Program](https://www.virtualbadge.io/certificate-validator?credential=41a5c993-230b-45ce-85f4-8dba535030e6)**
