@@ -15,7 +15,7 @@ I'm passionate about transforming data into actionable business insights through
 
 <h2>📊Data Analytics Projects:</h2>
 
-- <b>💾Consumer Insights & Market Research Projects</b>
+- <b>💾Marketing Analytics Projects</b>
   - [Beats by Dre Consumer Behavior & Market Analysis](https://github.com/armanichalmers/Beats_by_Dre_Consumer_Insights_Market_Research)
 
 - <b>💾Business Intelligence Projects</b>
